@@ -1,7 +1,7 @@
 {
   "name": "base16-eighties-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A short description of your syntax theme",
   "repository": "https://github.com/josler/atom-base16-eighties-dark-syntax",
   "license": "MIT",
